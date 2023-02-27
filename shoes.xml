@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shoes>
+     <nike>
+        <air_force1>
+            <sizes>
+                <size type="US">8.5</size>
+                <size type="US">9.5</size>
+            </sizes>
+            <colors>
+                <color type="text">black</color>
+                <color type="hexdecimal">#FFFFF</color>
+            </colors>
+            <made>china</made>
+            <quality>low cut or high cut </quality>
+        </air_force1>
+
+        <air_jordan>
+          <jordan1>
+          <sizes>
+            <size type="US">9.5</size>
+          </sizes>
+         <colors>
+            <color type="text">black and red</color>
+            <color type="hexdecimal">#FFFFF</color>
+         </colors>
+            <made>in china</made>
+            <quality> low cut or high cut</quality> 
+          </jordan1>
+        </air_jordan>
+
+     <nike_zoom>
+          <nike_zoom_fly3>
+          <sizes>
+            <size type="US">8</size>
+          </sizes>
+         <colors>
+            <color type="text">green</color>
+            <color type="hexdecimal">#FFFFF</color>
+         </colors>
+            <made>in china</made>
+        <nike_zoom_fly3>
+      </nike_zoom>
+
+        <curry>
+         <curry3>
+         <sizes>
+            <size type="US">7</size>
+          </sizes>
+          <colors>
+            <color type="text">black and yellow</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in india</made>
+            <quality> low cut or high cut</quality> 
+         </curry3>
+      </curry>
+
+        <lebron>
+         <lebron12>
+          <sizes>
+            <size type="US">9</size>
+            <size type="US">9.5</size>
+          </sizes>
+          <colors>
+            <color type="text">gold</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in China</made>
+            <quality> low cut or high cut</quality> 
+        </lebron12>
+      </lebron>
+
+        <harden>
+         <harden_vol3>
+          <sizes>
+            <size type="US">8.5</size>
+            <size type="US">9.5</size>
+         </sizes>
+          <colors>
+            <color type="text">grey</color>
+            <color type="text">red</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Vietnam</made>
+         </harden_vol3>
+         </harden>
+       </nike>
+
+     <adidas>
+      <sneaker>
+       <sizes>
+            <size type="US">10.5</size>
+            <size type="US">11</size>
+        </sizes>
+         <colors>
+            <color type="text">white</color>
+            <color type="text">black</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Vietnam</made>
+       </sneaker>
+    </adidas>
+
+     <vans>
+      <vans_claasic>
+      <sizes>
+       <size type="US">8</size>
+            <size type="US">10</size>
+        </sizes>
+          <colors>
+            <color type="text">black and white</color>
+            <color type="text">blue and black</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Cambodia</made>
+       </vans_classic>
+
+       <vans_sneakers>
+       <sizes>
+         <size type="US">8.5</size>
+            <size type="US">10</size>
+        </sizes>
+         <colors>
+            <color type="text">black and red</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Cambodia</made>
+       </vans_sneakers>
+     </vans>
+
+      <new_balance>
+       <sneakers>
+        <sizes>
+         <size type="US">9</size>
+            <size type="US">10</size>
+        </sizes>
+          <colors>
+            <color type="text">blue and white</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Cambodia</made>
+       </sneakers>
+      </new_balance>
+
+     <skechers>
+      <arch_fit_stretch>
+       <sizes>
+         <size type="US">8</size>
+            <size type="US">10.5</size>
+        </sizes>
+          <colors>
+            <color type="text">brown</color>
+            <color type="text">blue</color>
+            <color type="hexdecimal">#FFFFF</color>
+          </colors>
+            <made>in Vietnam</made>
+      </arch_fit_stretch>
+     </skechers>
+
+</shoes>
