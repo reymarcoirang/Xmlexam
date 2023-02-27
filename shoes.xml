@@ -38,7 +38,7 @@
             <color type="hexdecimal">#FFFFF</color>
          </colors>
             <made>in china</made>
-        <nike_zoom_fly3>
+        </nike_zoom_fly3>
       </nike_zoom>
 
         <curry>
@@ -102,9 +102,9 @@
     </adidas>
 
      <vans>
-      <vans_claasic>
-      <sizes>
-       <size type="US">8</size>
+      <vans_classic>
+        <sizes>
+            <size type="US">8</size>
             <size type="US">10</size>
         </sizes>
           <colors>
@@ -112,21 +112,21 @@
             <color type="text">blue and black</color>
             <color type="hexdecimal">#FFFFF</color>
           </colors>
-            <made>in Cambodia</made>
-       </vans_classic>
+        <made>in Cambodia</made>
+      </vans_classic>
 
-       <vans_sneakers>
+      <vans_sneakers>
        <sizes>
          <size type="US">8.5</size>
             <size type="US">10</size>
         </sizes>
-         <colors>
+          <colors>
             <color type="text">black and red</color>
             <color type="hexdecimal">#FFFFF</color>
           </colors>
             <made>in Cambodia</made>
-       </vans_sneakers>
-     </vans>
+      </vans_sneakers>
+    </vans>
 
       <new_balance>
        <sneakers>
@@ -157,4 +157,4 @@
       </arch_fit_stretch>
      </skechers>
 
-</shoes>
+</Shoes>
